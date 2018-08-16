@@ -1,3 +1,3 @@
 # CRUD PHP MySQL
 
-Use database .sql file in database folder
+Use database testpraktek.sql file in database folder
